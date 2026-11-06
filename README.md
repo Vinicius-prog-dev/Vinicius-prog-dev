@@ -36,5 +36,5 @@ Atuo no desenvolvimento de soluções voltadas para coleta, tratamento e modelag
 
 ### 📫 Conecte-se comigo
 
-* **LinkedIn:** linkedin.com/in/seu-perfil
+* **LinkedIn:** www.linkedin.com/in/vinicius-galoa-fonseca-santos-9b3599240
 * **E-mail:** vinigaloa@gmail.com
